@@ -12,8 +12,8 @@ Lokasi lokal: `/Users/kiswanto/Documents/kiswanto-id`.
 
 - Next.js **16.4.2** dari tag `latest` npm saat inisialisasi; React/React DOM **19.3.0**, TypeScript, Tailwind CSS v4, ESLint, App Router.
 - Runtime validasi: Node.js **22.23.2**, npm **10.9.8**.
-- `package-lock.json`, scripts `dev`, `build`, `start`, `lint` sesuai scaffold; tidak ada dependency fitur tambahan.
-- `app/page.tsx`, layout, styling, favicon dan aset public kini memakai homepage V4. Header interaktif berada di app/ui/site-header.tsx; logo dan portrait lokal, SVG teknologi Devicon, serta lisensi disimpan di public. Tidak ada dependency baru.
+- `package-lock.json`, scripts `dev`, `build`, `start`, `lint`; `@vercel/analytics` dipasang dan komponen `Analytics` dimuat dari root layout. Data baru akan dikirim setelah deployment ke Vercel dan Web Analytics diaktifkan pada project Vercel.
+- `app/page.tsx`, layout, styling, favicon dan aset public kini memakai homepage V4. Header interaktif berada di app/ui/site-header.tsx; logo dan portrait lokal, SVG teknologi Devicon, serta lisensi disimpan di public.
 - Repository Git lokal diinisialisasi oleh generator. Belum ada remote GitHub, PR, push atau deployment. Dokumentasi sesi ini tersedia sebagai perubahan lokal untuk review; tidak dibuat commit tambahan oleh sesi ini.
 - `README.md`, `AGENTS.md`, dan sembilan dokumen `docs/`. Petunjuk agen bawaan Next.js di `AGENTS.md` dipertahankan bersama panduan proyek.
 
@@ -41,7 +41,7 @@ Installer juga memberi deprecation warning untuk ESLint 9.39.5. Versi dipertahan
 
 ## Belum diimplementasikan
 
-Halaman terpisah About/Projects/Insights/Uses/Contact (home memakai anchor, bukan rute terpisah); konten MDX; monorepo dan admin/PWA; Firebase project binding/Auth/Rules/Storage/Functions; queue/worker Zorin/model; knowledge base; approval runtime; GitHub integration/CI/CD; domain; social OAuth/publisher; analytics; scheduler/budget/monitoring produksi.
+Halaman terpisah About/Projects/Insights/Uses/Contact (home memakai anchor, bukan rute terpisah); konten MDX; monorepo dan admin/PWA; Firebase project binding/Auth/Rules/Storage/Functions; queue/worker Zorin/model; knowledge base; approval runtime; GitHub integration/CI/CD; domain; social OAuth/publisher; scheduler/budget/monitoring produksi.
 
 Semua schema, workflow, permission, diagram dan target folder pada dokumentasi adalah rancangan. Tidak ada `.env`, secrets, konfigurasi cloud atau data Warza yang disalin. Belum ada cloud resource dibuat atau dimodifikasi.
 
@@ -114,6 +114,18 @@ Data CV dipusatkan di `app/data/cv.ts` (dipakai home dan /kiki). Header kini men
 **Revisi portofolio & sertifikat (18 Oktober 2026):** portofolio Beebeesoft/SiUndang/BeeKasir dihapus atas permintaan pengguna, diganti Kasir Q – Smart Point Of Sales (Google Play) dan Warza Teknologi (warza.id). Sertifikat AI-Powered Apps Fundamental kini mencantumkan penerbit WPU Course, tanggal 30 Juni 2026, dan tautan "Lihat sertifikat" (ID R6WRDQX9) — data dibaca langsung dari halaman sertifikat. Di PDF, URL portofolio dan sertifikat dicetak sebagai teks. Lint, build, overflow 320/390/834 px, dan PDF 2 halaman diperiksa ulang.
 
 Batasan: alamat, telepon, dan email pribadi dari PDF LinkedIn/CV sengaja tidak dipublikasikan. LinkedIn tidak bisa dibaca langsung (authwall; Claude in Chrome tidak terhubung). Headline LinkedIn "Senior Scrum Master" sementara entri pengalamannya "Scrum Master" — ditampilkan sesuai sumber; singkatan BES tidak dijabarkan. Next action: review pengguna atas isi dan deskripsi highlight home.
+
+## Integrasi Vercel Web Analytics — 18 Oktober 2026
+
+`@vercel/analytics` **2.0.1** ditambahkan sebagai dependency produksi dan `<Analytics />` dipasang pada `app/layout.tsx` sesuai panduan resmi Vercel. Data analitik memerlukan deployment ke Vercel serta Web Analytics diaktifkan pada project Vercel; keduanya belum dilakukan.
+
+| Pemeriksaan | Hasil aktual |
+| --- | --- |
+| `npm run lint` | Lulus |
+| `npx tsc --noEmit` | Lulus |
+| `npm run build -- --webpack` | Lulus; `/`, `/kiki`, `/_not-found`, dan ikon diprerender |
+
+Build default Turbopack gagal karena proses helper lokal tidak diizinkan oleh sandbox; build webpack di atas berhasil. Instalasi dependency juga melaporkan lima temuan high dari audit tooling yang sudah tercatat pada status baseline; tidak menjalankan `npm audit fix`.
 
 ## Langkah berikutnya untuk sesi AI
 
