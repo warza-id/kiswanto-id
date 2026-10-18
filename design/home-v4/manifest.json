@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-18",
+  "version": "V4",
+  "assets": [
+    {
+      "path": "assets/brand/favicon-16.png",
+      "sha256": "1e77b91212c6932a7ad42672b8c3b34452d242a514e1c27e4c02203e4bc82807",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "path": "assets/brand/favicon-180.png",
+      "sha256": "12917ed95e81e897d2d65c5b62afd5c2250a50491e4593e259d2d25b2ff89cdc",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "path": "assets/brand/favicon-192.png",
+      "sha256": "87cd310e4de75863dadb9e689ee936671cfbe71c011ba43a020bc6b9911562c1",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "path": "assets/brand/favicon-32.png",
+      "sha256": "907384c94fc26a0df363e795f9341d000829d7476ad799dc3ce1f3b0ad12cc50",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "path": "assets/brand/favicon-48.png",
+      "sha256": "e23685d8451b678d38bce7580223cb8033e2a07635c4d443b77bf2290873a7d8",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "path": "assets/brand/favicon-512.png",
+      "sha256": "0a08b1858a0a9466c4387f391c79c4c5f4cc8ceb10aead5fe063de9a04dc65a0",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "path": "assets/brand/favicon.ico",
+      "sha256": "f85b7e4a91e3b28629ce5771286e7150cd2c926372878ee9c04789163bf34b33",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "path": "assets/brand/favicon.svg",
+      "sha256": "62ef46f4a9cb173aaa2b1b1ca872911e2fda5a51e15bf53b0a9ac2c164216546"
+    },
+    {
+      "path": "assets/brand/logo-128.png",
+      "sha256": "be4c80b0905e51c445bdef5498f406bb615a851e06e2393b542bce816703a088",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "assets/brand/logo-256.png",
+      "sha256": "84c1b22608542283f2065955e3cc5a7238fd86c12c4fa56e27f073d072d3e802",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "assets/brand/logo-512.png",
+      "sha256": "b994e167109bb7265f7ae2237bef1cf84b47c9dbe1a7163b942944554456489d",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "path": "assets/brand/logo-64.png",
+      "sha256": "78ee880f10724af8b25dceff15e554871a6f99589373ebfc37d855c02f9e6fdb",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "assets/brand/logo-review.png",
+      "sha256": "798d06e6202bc93f33fdc7e6316e83c9fb6c19a0a123302d3e922401ce19e8a2",
+      "width": 1200,
+      "height": 560
+    },
+    {
+      "path": "assets/brand/logo-review.svg",
+      "sha256": "b638872b18538bafb0b6212a196230266b66f53c4455814b568969ff8eb385a9"
+    },
+    {
+      "path": "assets/brand/logo.svg",
+      "sha256": "3ca21251adc1025dde915e83d4fe949a44e811a8d9a6b856b9611577cd1ef25f"
+    },
+    {
+      "path": "home-laptop-v4.png",
+      "sha256": "9cc4472ea5740fe27d363e1ba1327b8a83776f4aba79a6567c6b3ced10d5ea14",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "home-mobile-v4.png",
+      "sha256": "6980d02e5edfa15e64237d730ab6fa3a909c0e2c799be63f14a8553ab12b9eb0",
+      "width": 725,
+      "height": 2168
+    },
+    {
+      "path": "home-tablet-v4.png",
+      "sha256": "80cf5c2e829e4c152afbc2aef8532b6a94e2f3d6a9a63aa8aed653302210d81a",
+      "width": 949,
+      "height": 1658
+    },
+    {
+      "path": "reference/logo-original.png",
+      "sha256": "975f96b318d04d989f8b8e06bfdfa3f872012f51df6fb2360402fffe28228070",
+      "width": 66,
+      "height": 68
+    }
+  ]
+}

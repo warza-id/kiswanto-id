@@ -1,0 +1,158 @@
+{
+  "version": "home-v1",
+  "status": "draft-not-published",
+  "date": "2026-10-16",
+  "assets": [
+    {
+      "file": "assets/brand/brand-board.png",
+      "bytes": 43255,
+      "sha256": "b6b08628ef3d428a9e1e4db05e7b159908b0de4293c01e58942514bb31db3a90",
+      "width": 1400,
+      "height": 700
+    },
+    {
+      "file": "assets/brand/brand-board.svg",
+      "bytes": 1583,
+      "sha256": "26fb2eb4f83f410c7708eea82d06eabc74c42ca6ed154d80fda1eb855c785bae"
+    },
+    {
+      "file": "assets/brand/favicon.ico",
+      "bytes": 4475,
+      "sha256": "7bd75fb14d2f7a75420c5657dd28a6a4f011ea3f94724a54c9bde0a728d84d6a",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "file": "assets/brand/favicon.svg",
+      "bytes": 501,
+      "sha256": "2a540f9fce0da356a7e473132c039346cee0385a684239ddc993c1e41da5aba9"
+    },
+    {
+      "file": "assets/brand/icon-16.png",
+      "bytes": 518,
+      "sha256": "2ac730681e71294df14d58ec02e6f9e65bdaba099c7c0c832a4bfc074e8b7e98",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "file": "assets/brand/icon-180.png",
+      "bytes": 5283,
+      "sha256": "1fb39d14f7d7bcd2f9d9aabdb515b82631fc5861f6d12891909bb2add9de8237",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "file": "assets/brand/icon-192.png",
+      "bytes": 5727,
+      "sha256": "39e00daae3c1ef8df6e59acb81461f7c607158ccfaa9dfbab292640441c8ca1a",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "file": "assets/brand/icon-32.png",
+      "bytes": 1021,
+      "sha256": "b9d9e8976f56f29761106a6e92ee2be803dbf0d4c141799124a44b7ecf27cff7",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "file": "assets/brand/icon-48.png",
+      "bytes": 1455,
+      "sha256": "51bb6da722c65637126f9a9b5d29e8d1d482b1db05a0f7aa2b419af1b0b20cbd",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "file": "assets/brand/icon-512.png",
+      "bytes": 18733,
+      "sha256": "68d69693a1b9f72772d43ac2c55a073cb0b22e6f5e3216aa6d378f51d3103646",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "file": "assets/brand/logo-mark-512.png",
+      "bytes": 13880,
+      "sha256": "cbc2501f9b631473e4661415b083006a51192fd37263abb40667614cd60383f7",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "file": "assets/brand/logo-mark-dark.svg",
+      "bytes": 492,
+      "sha256": "003664ec91c74c0724959e00a6bbdb3e7b14d52361b0b71e24d23de3a9d93608"
+    },
+    {
+      "file": "assets/brand/logo-mark-white.svg",
+      "bytes": 492,
+      "sha256": "b0c89f4d3b79e5faf0516b37722789a4b539f27a73d013e277737c5031c0d7aa"
+    },
+    {
+      "file": "assets/brand/logo-mark.svg",
+      "bytes": 492,
+      "sha256": "f9cf1365901faa20f0b6c820b9c82e50ea6f472f2fdc42818d3794565314e369"
+    },
+    {
+      "file": "assets/images/ai-exploration.png",
+      "bytes": 1749204,
+      "sha256": "1e69513fdc9dbcdf3d6b4af633ea4fde9a635de230feaa47edcb1f1b30768ffd",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "assets/images/ai-exploration.webp",
+      "bytes": 52586,
+      "sha256": "dbeffcfece5b7d6b42235e35d846fc01f10997cf0ad220a6bd27172abad1007d",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "assets/images/notes-learning.png",
+      "bytes": 2133680,
+      "sha256": "2d8242fac3d41f1d8116cb7b2d3a76ebc4995b47cfad4a97940d97ae8dfb50c6",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "assets/images/notes-learning.webp",
+      "bytes": 119826,
+      "sha256": "2efedf6c1f66a7b40b028600c839df3f6c807ecab008c875e62567ce9e7cd9c5",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "assets/images/portrait-hero.png",
+      "bytes": 1890037,
+      "sha256": "3efb5a20a51065f9b7cebdd6254ba5f4bab0b9fdea01cd232feded38bb967cc5",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "assets/images/portrait-hero.webp",
+      "bytes": 71198,
+      "sha256": "a39ed04798e2b10cd099651cc9125208cab15fd0490706b622f8fb1f6df27c00",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "assets/images/projects-ecosystem.png",
+      "bytes": 1678574,
+      "sha256": "d4c7e46c7d7ac646e23f632ecaa6c44fd6daa25baea4456ae72baa49dfc44f4d",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "assets/images/projects-ecosystem.webp",
+      "bytes": 48392,
+      "sha256": "80d8eac11df1bf0707e1ba9779221c35a4092e1d5a82400ccb0dd15b1b060b84",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "mockups/home-desktop-v1.png",
+      "bytes": 1834824,
+      "sha256": "48ebe88d1e45705941aef4c5aaebcf698ab7800afad761a9bbea6dc4113f4a74",
+      "width": 971,
+      "height": 1619
+    }
+  ]
+}

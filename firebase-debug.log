@@ -1,0 +1,449 @@
+[debug] [2026-10-16T14:11:45.140Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:11:45.143Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:11:45.143Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:11:45.144Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-16T14:11:45.144Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-16T14:11:45.144Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:11:45.147Z] Checked if tokens are valid: true, expires at: 1792162301650
+[debug] [2026-10-16T14:11:45.147Z] Checked if tokens are valid: true, expires at: 1792162301650
+[debug] [2026-10-16T14:11:45.151Z] Checked if tokens are valid: true, expires at: 1792162301650
+[debug] [2026-10-16T14:11:45.151Z] Checked if tokens are valid: true, expires at: 1792162301650
+[debug] [2026-10-16T14:11:45.152Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-16T14:11:45.152Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-16T14:11:45.152Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com [none]
+[debug] [2026-10-16T14:11:45.152Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/beekasir-60f31
+[debug] [2026-10-16T14:11:45.153Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com [none]
+[debug] [2026-10-16T14:11:45.153Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com x-goog-quota-user=projects/beekasir-60f31
+[debug] [2026-10-16T14:11:45.154Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:11:45.154Z] Checked if tokens are valid: true, expires at: 1792162301650
+[debug] [2026-10-16T14:11:45.154Z] Checked if tokens are valid: true, expires at: 1792162301650
+[debug] [2026-10-16T14:11:45.154Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [none]
+[debug] [2026-10-16T14:11:45.154Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com x-goog-quota-user=projects/beekasir
+[debug] [2026-10-16T14:11:46.758Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com 403
+[debug] [2026-10-16T14:11:46.758Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [omitted]
+[debug] [2026-10-16T14:11:46.760Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com 200
+[debug] [2026-10-16T14:11:46.760Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2026-10-16T14:11:46.761Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com 403
+[debug] [2026-10-16T14:11:46.761Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com [omitted]
+[debug] [2026-10-16T14:11:46.761Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:11:46.885Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:11:46.885Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:11:46.886Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-16T14:11:46.886Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-16T14:11:46.886Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:11:54.489Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:11:54.492Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:11:54.493Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:11:54.493Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-16T14:11:54.493Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-16T14:11:54.494Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:11:54.498Z] Checked if tokens are valid: true, expires at: 1792162301650
+[debug] [2026-10-16T14:11:54.498Z] Checked if tokens are valid: true, expires at: 1792162301650
+[debug] [2026-10-16T14:11:54.502Z] Checked if tokens are valid: true, expires at: 1792162301650
+[debug] [2026-10-16T14:11:54.502Z] Checked if tokens are valid: true, expires at: 1792162301650
+[debug] [2026-10-16T14:11:54.503Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-16T14:11:54.503Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-16T14:11:54.503Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com [none]
+[debug] [2026-10-16T14:11:54.503Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/beekasir-60f31
+[debug] [2026-10-16T14:11:54.504Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com [none]
+[debug] [2026-10-16T14:11:54.504Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com x-goog-quota-user=projects/beekasir-60f31
+[debug] [2026-10-16T14:11:54.505Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:11:54.506Z] Checked if tokens are valid: true, expires at: 1792162301650
+[debug] [2026-10-16T14:11:54.506Z] Checked if tokens are valid: true, expires at: 1792162301650
+[debug] [2026-10-16T14:11:54.506Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [none]
+[debug] [2026-10-16T14:11:54.506Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com x-goog-quota-user=projects/beekasir
+[debug] [2026-10-16T14:11:56.295Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com 403
+[debug] [2026-10-16T14:11:56.296Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com [omitted]
+[debug] [2026-10-16T14:11:56.739Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com 403
+[debug] [2026-10-16T14:11:56.739Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [omitted]
+[debug] [2026-10-16T14:11:56.885Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com 200
+[debug] [2026-10-16T14:11:56.885Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2026-10-16T14:11:56.885Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:11:57.053Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:11:57.054Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:11:57.054Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-16T14:11:57.054Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-16T14:11:57.054Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:11:57.942Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:11:57.943Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-16T14:11:57.943Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-16T14:12:06.719Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:12:06.719Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-16T14:12:06.719Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-16T14:29:52.181Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:29:52.183Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:29:52.183Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-16T14:29:52.183Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-16T14:29:52.184Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:29:52.191Z] Checked if tokens are valid: true, expires at: 1792162301650
+[debug] [2026-10-16T14:29:52.191Z] Checked if tokens are valid: true, expires at: 1792162301650
+[debug] [2026-10-16T14:29:52.191Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [none]
+[debug] [2026-10-16T14:29:52.192Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com x-goog-quota-user=projects/beekasir
+[debug] [2026-10-16T14:29:52.195Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:29:52.195Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:29:52.196Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-16T14:29:52.196Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-16T14:29:52.196Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:29:52.196Z] Checked if tokens are valid: true, expires at: 1792162301650
+[debug] [2026-10-16T14:29:52.197Z] Checked if tokens are valid: true, expires at: 1792162301650
+[debug] [2026-10-16T14:29:52.197Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [none]
+[debug] [2026-10-16T14:29:52.197Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com x-goog-quota-user=projects/beekasir
+[debug] [2026-10-16T14:29:52.235Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:29:52.237Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:29:52.238Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:29:52.240Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-16T14:29:52.241Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-16T14:29:52.242Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:29:52.254Z] Checked if tokens are valid: true, expires at: 1792162301650
+[debug] [2026-10-16T14:29:52.254Z] Checked if tokens are valid: true, expires at: 1792162301650
+[debug] [2026-10-16T14:29:52.265Z] Checked if tokens are valid: true, expires at: 1792162301650
+[debug] [2026-10-16T14:29:52.266Z] Checked if tokens are valid: true, expires at: 1792162301650
+[debug] [2026-10-16T14:29:52.266Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-16T14:29:52.266Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-16T14:29:52.267Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com [none]
+[debug] [2026-10-16T14:29:52.267Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/beekasir-60f31
+[debug] [2026-10-16T14:29:52.268Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com [none]
+[debug] [2026-10-16T14:29:52.269Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com x-goog-quota-user=projects/beekasir-60f31
+[debug] [2026-10-16T14:29:52.269Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:29:52.270Z] Checked if tokens are valid: true, expires at: 1792162301650
+[debug] [2026-10-16T14:29:52.270Z] Checked if tokens are valid: true, expires at: 1792162301650
+[debug] [2026-10-16T14:29:52.270Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [none]
+[debug] [2026-10-16T14:29:52.270Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com x-goog-quota-user=projects/beekasir
+[debug] [2026-10-16T14:29:54.249Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com 403
+[debug] [2026-10-16T14:29:54.249Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [omitted]
+[debug] [2026-10-16T14:29:54.251Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com 403
+[debug] [2026-10-16T14:29:54.251Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [omitted]
+[debug] [2026-10-16T14:29:54.358Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com 403
+[debug] [2026-10-16T14:29:54.358Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [omitted]
+[debug] [2026-10-16T14:29:54.369Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com 200
+[debug] [2026-10-16T14:29:54.369Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2026-10-16T14:29:54.378Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com 403
+[debug] [2026-10-16T14:29:54.378Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com [omitted]
+[debug] [2026-10-16T14:29:54.561Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:29:54.602Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:29:54.626Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:29:54.627Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:29:54.627Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-16T14:29:54.627Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-16T14:29:54.627Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:29:54.669Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:29:54.670Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:29:54.670Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-16T14:29:54.670Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-16T14:29:54.670Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:30:09.485Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:30:09.485Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-16T14:30:09.485Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-16T14:30:09.487Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:30:09.488Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-16T14:30:09.488Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-16T14:43:20.415Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:43:20.418Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:43:20.418Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:43:20.419Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-16T14:43:20.419Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-16T14:43:20.420Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:43:20.429Z] Checked if tokens are valid: true, expires at: 1792165392813
+[debug] [2026-10-16T14:43:20.429Z] Checked if tokens are valid: true, expires at: 1792165392813
+[debug] [2026-10-16T14:43:20.434Z] Checked if tokens are valid: true, expires at: 1792165392813
+[debug] [2026-10-16T14:43:20.434Z] Checked if tokens are valid: true, expires at: 1792165392813
+[debug] [2026-10-16T14:43:20.434Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-16T14:43:20.435Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-16T14:43:20.435Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com [none]
+[debug] [2026-10-16T14:43:20.435Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/beekasir-60f31
+[debug] [2026-10-16T14:43:20.436Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com [none]
+[debug] [2026-10-16T14:43:20.436Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com x-goog-quota-user=projects/beekasir-60f31
+[debug] [2026-10-16T14:43:20.437Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:43:20.438Z] Checked if tokens are valid: true, expires at: 1792165392813
+[debug] [2026-10-16T14:43:20.438Z] Checked if tokens are valid: true, expires at: 1792165392813
+[debug] [2026-10-16T14:43:20.438Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [none]
+[debug] [2026-10-16T14:43:20.438Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com x-goog-quota-user=projects/beekasir
+[debug] [2026-10-16T14:43:22.103Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com 200
+[debug] [2026-10-16T14:43:22.103Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2026-10-16T14:43:22.248Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com 403
+[debug] [2026-10-16T14:43:22.248Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [omitted]
+[debug] [2026-10-16T14:43:22.457Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com 403
+[debug] [2026-10-16T14:43:22.457Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com [omitted]
+[debug] [2026-10-16T14:43:22.882Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:43:22.991Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:43:22.992Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:43:22.994Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-16T14:43:22.994Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-16T14:43:22.994Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:43:35.106Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-16T14:43:35.106Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-16T14:43:35.107Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T02:32:31.716Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:32:31.718Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:32:31.719Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-18T02:32:31.719Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T02:32:31.719Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:32:31.725Z] Checked if tokens are valid: false, expires at: 1792249971256
+[debug] [2026-10-18T02:32:31.725Z] Checked if tokens are valid: false, expires at: 1792249971256
+[debug] [2026-10-18T02:32:31.726Z] > refreshing access token with scopes: []
+[debug] [2026-10-18T02:32:31.726Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2026-10-18T02:32:31.727Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-10-18T02:32:31.731Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:32:31.731Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:32:31.731Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-18T02:32:31.731Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T02:32:31.731Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:32:31.732Z] Checked if tokens are valid: false, expires at: 1792249971256
+[debug] [2026-10-18T02:32:31.732Z] Checked if tokens are valid: false, expires at: 1792249971256
+[debug] [2026-10-18T02:32:31.732Z] > refreshing access token with scopes: []
+[debug] [2026-10-18T02:32:31.732Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2026-10-18T02:32:31.733Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-10-18T02:32:32.032Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2026-10-18T02:32:32.033Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-10-18T02:32:32.054Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [none]
+[debug] [2026-10-18T02:32:32.054Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com x-goog-quota-user=projects/beekasir
+[debug] [2026-10-18T02:32:32.156Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2026-10-18T02:32:32.156Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-10-18T02:32:32.170Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [none]
+[debug] [2026-10-18T02:32:32.170Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com x-goog-quota-user=projects/beekasir
+[debug] [2026-10-18T02:32:33.579Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com 403
+[debug] [2026-10-18T02:32:33.579Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [omitted]
+[debug] [2026-10-18T02:32:33.580Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:32:33.586Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com 403
+[debug] [2026-10-18T02:32:33.586Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [omitted]
+[debug] [2026-10-18T02:32:33.606Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:32:33.606Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:32:33.607Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-18T02:32:33.607Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T02:32:33.607Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:33:08.582Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:33:08.586Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:33:08.588Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:33:08.591Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-18T02:33:08.591Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T02:33:08.591Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:33:08.600Z] Checked if tokens are valid: true, expires at: 1792294351156
+[debug] [2026-10-18T02:33:08.600Z] Checked if tokens are valid: true, expires at: 1792294351156
+[debug] [2026-10-18T02:33:08.604Z] Checked if tokens are valid: true, expires at: 1792294351156
+[debug] [2026-10-18T02:33:08.604Z] Checked if tokens are valid: true, expires at: 1792294351156
+[debug] [2026-10-18T02:33:08.605Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-18T02:33:08.605Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T02:33:08.605Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com [none]
+[debug] [2026-10-18T02:33:08.605Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/beekasir-60f31
+[debug] [2026-10-18T02:33:08.606Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com [none]
+[debug] [2026-10-18T02:33:08.606Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com x-goog-quota-user=projects/beekasir-60f31
+[debug] [2026-10-18T02:33:08.607Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:33:08.608Z] Checked if tokens are valid: true, expires at: 1792294351156
+[debug] [2026-10-18T02:33:08.608Z] Checked if tokens are valid: true, expires at: 1792294351156
+[debug] [2026-10-18T02:33:08.608Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [none]
+[debug] [2026-10-18T02:33:08.608Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com x-goog-quota-user=projects/beekasir
+[debug] [2026-10-18T02:33:12.194Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:33:12.306Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:33:12.308Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:33:12.309Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-18T02:33:12.309Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T02:33:12.309Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:33:12.317Z] Checked if tokens are valid: true, expires at: 1792294351156
+[debug] [2026-10-18T02:33:12.317Z] Checked if tokens are valid: true, expires at: 1792294351156
+[debug] [2026-10-18T02:33:12.317Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [none]
+[debug] [2026-10-18T02:33:12.318Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com x-goog-quota-user=projects/beekasir
+[debug] [2026-10-18T02:33:12.322Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:33:12.322Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:33:12.323Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-18T02:33:12.323Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T02:33:12.323Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:33:12.324Z] Checked if tokens are valid: true, expires at: 1792294351156
+[debug] [2026-10-18T02:33:12.324Z] Checked if tokens are valid: true, expires at: 1792294351156
+[debug] [2026-10-18T02:33:12.324Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [none]
+[debug] [2026-10-18T02:33:12.324Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com x-goog-quota-user=projects/beekasir
+[debug] [2026-10-18T02:33:13.030Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:33:13.031Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:33:13.032Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-18T02:33:13.032Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T02:33:13.032Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:33:15.326Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:33:18.223Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:33:18.224Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:33:18.224Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-18T02:33:18.224Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T02:33:18.224Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:33:23.325Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com 403
+[debug] [2026-10-18T02:33:23.325Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [omitted]
+[debug] [2026-10-18T02:33:23.491Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com 403
+[debug] [2026-10-18T02:33:23.491Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [omitted]
+[debug] [2026-10-18T02:33:30.660Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com 403
+[debug] [2026-10-18T02:33:30.661Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com [omitted]
+[debug] [2026-10-18T02:33:32.187Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com 403
+[debug] [2026-10-18T02:33:32.187Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [omitted]
+[debug] [2026-10-18T02:33:32.379Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com 200
+[debug] [2026-10-18T02:33:32.379Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2026-10-18T02:33:32.637Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:33:32.638Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-18T02:33:32.638Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T02:33:35.770Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T02:33:35.770Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-18T02:33:35.770Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T05:01:32.306Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-18T05:01:32.308Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T05:01:32.308Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-18T05:01:32.308Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T05:01:32.311Z] Checked if tokens are valid: true, expires at: 1792303252974
+[debug] [2026-10-18T05:01:32.311Z] Checked if tokens are valid: true, expires at: 1792303252974
+[debug] [2026-10-18T05:01:32.315Z] Checked if tokens are valid: true, expires at: 1792303252974
+[debug] [2026-10-18T05:01:32.315Z] Checked if tokens are valid: true, expires at: 1792303252974
+[debug] [2026-10-18T05:01:32.316Z] Checked if tokens are valid: true, expires at: 1792303252974
+[debug] [2026-10-18T05:01:32.316Z] Checked if tokens are valid: true, expires at: 1792303252974
+[debug] [2026-10-18T05:01:32.317Z] Checked if tokens are valid: true, expires at: 1792303252974
+[debug] [2026-10-18T05:01:32.317Z] Checked if tokens are valid: true, expires at: 1792303252974
+[debug] [2026-10-18T05:01:32.317Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-18T05:01:32.317Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T05:01:32.317Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com [none]
+[debug] [2026-10-18T05:01:32.317Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/beekasir-60f31
+[debug] [2026-10-18T05:01:32.318Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com [none]
+[debug] [2026-10-18T05:01:32.318Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com x-goog-quota-user=projects/beekasir-60f31
+[debug] [2026-10-18T05:01:32.319Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com [none]
+[debug] [2026-10-18T05:01:32.319Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/beekasir-60f31
+[debug] [2026-10-18T05:01:32.319Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com [none]
+[debug] [2026-10-18T05:01:32.319Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com x-goog-quota-user=projects/beekasir-60f31
+[debug] [2026-10-18T05:01:32.320Z] Checked if tokens are valid: true, expires at: 1792303252974
+[debug] [2026-10-18T05:01:32.320Z] Checked if tokens are valid: true, expires at: 1792303252974
+[debug] [2026-10-18T05:01:32.321Z] Checked if tokens are valid: true, expires at: 1792303252974
+[debug] [2026-10-18T05:01:32.321Z] Checked if tokens are valid: true, expires at: 1792303252974
+[debug] [2026-10-18T05:01:32.321Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com [none]
+[debug] [2026-10-18T05:01:32.321Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/beekasir-60f31
+[debug] [2026-10-18T05:01:32.322Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com [none]
+[debug] [2026-10-18T05:01:32.322Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com x-goog-quota-user=projects/beekasir-60f31
+[debug] [2026-10-18T05:01:34.053Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com 403
+[debug] [2026-10-18T05:01:34.053Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com [omitted]
+[debug] [2026-10-18T05:01:34.372Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com 403
+[debug] [2026-10-18T05:01:34.372Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com [omitted]
+[debug] [2026-10-18T05:01:34.407Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com 403
+[debug] [2026-10-18T05:01:34.407Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com [omitted]
+[debug] [2026-10-18T05:01:34.416Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com 200
+[debug] [2026-10-18T05:01:34.416Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2026-10-18T05:01:34.419Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com 200
+[debug] [2026-10-18T05:01:34.419Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2026-10-18T05:01:34.422Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com 200
+[debug] [2026-10-18T05:01:34.422Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2026-10-18T05:01:34.614Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-18T05:01:34.615Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T05:01:34.616Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-18T05:01:34.616Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T05:01:34.618Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-18T05:01:34.618Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T05:01:34.620Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-18T05:01:34.620Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T06:34:53.484Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:53.479Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:53.482Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:53.483Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-18T06:34:53.483Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T06:34:53.483Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:53.489Z] Checked if tokens are valid: false, expires at: 1792303252974
+[debug] [2026-10-18T06:34:53.489Z] Checked if tokens are valid: false, expires at: 1792303252974
+[debug] [2026-10-18T06:34:53.489Z] > refreshing access token with scopes: []
+[debug] [2026-10-18T06:34:53.490Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2026-10-18T06:34:53.490Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-10-18T06:34:53.495Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:53.495Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:53.495Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-18T06:34:53.495Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T06:34:53.495Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:53.496Z] Checked if tokens are valid: false, expires at: 1792303252974
+[debug] [2026-10-18T06:34:53.496Z] Checked if tokens are valid: false, expires at: 1792303252974
+[debug] [2026-10-18T06:34:53.496Z] > refreshing access token with scopes: []
+[debug] [2026-10-18T06:34:53.496Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2026-10-18T06:34:53.496Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-10-18T06:34:53.486Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:53.487Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:53.487Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-18T06:34:53.487Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T06:34:53.488Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:53.490Z] Checked if tokens are valid: false, expires at: 1792303252974
+[debug] [2026-10-18T06:34:53.490Z] Checked if tokens are valid: false, expires at: 1792303252974
+[debug] [2026-10-18T06:34:53.490Z] > refreshing access token with scopes: []
+[debug] [2026-10-18T06:34:53.491Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2026-10-18T06:34:53.491Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-10-18T06:34:53.496Z] Checked if tokens are valid: false, expires at: 1792303252974
+[debug] [2026-10-18T06:34:53.496Z] Checked if tokens are valid: false, expires at: 1792303252974
+[debug] [2026-10-18T06:34:53.496Z] > refreshing access token with scopes: []
+[debug] [2026-10-18T06:34:53.496Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2026-10-18T06:34:53.496Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-10-18T06:34:53.496Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-18T06:34:53.496Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T06:34:53.497Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:53.497Z] Checked if tokens are valid: false, expires at: 1792303252974
+[debug] [2026-10-18T06:34:53.497Z] Checked if tokens are valid: false, expires at: 1792303252974
+[debug] [2026-10-18T06:34:53.497Z] > refreshing access token with scopes: []
+[debug] [2026-10-18T06:34:53.498Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2026-10-18T06:34:53.498Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-10-18T06:34:53.974Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2026-10-18T06:34:53.981Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2026-10-18T06:34:53.974Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-10-18T06:34:53.986Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com [none]
+[debug] [2026-10-18T06:34:53.986Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com x-goog-quota-user=projects/beekasir-60f31
+[debug] [2026-10-18T06:34:53.982Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-10-18T06:34:53.994Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [none]
+[debug] [2026-10-18T06:34:53.994Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com x-goog-quota-user=projects/beekasir
+[debug] [2026-10-18T06:34:53.991Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2026-10-18T06:34:53.991Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-10-18T06:34:54.003Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com [none]
+[debug] [2026-10-18T06:34:54.004Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/beekasir-60f31
+[debug] [2026-10-18T06:34:54.186Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2026-10-18T06:34:54.186Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-10-18T06:34:54.198Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [none]
+[debug] [2026-10-18T06:34:54.198Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com x-goog-quota-user=projects/beekasir
+[debug] [2026-10-18T06:34:54.274Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2026-10-18T06:34:54.274Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-10-18T06:34:54.286Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [none]
+[debug] [2026-10-18T06:34:54.286Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com x-goog-quota-user=projects/beekasir
+[debug] [2026-10-18T06:34:55.559Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com 403
+[debug] [2026-10-18T06:34:55.559Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com [omitted]
+[debug] [2026-10-18T06:34:55.612Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:55.614Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:55.614Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:55.614Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-18T06:34:55.614Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T06:34:55.615Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:55.617Z] Checked if tokens are valid: true, expires at: 1792308893274
+[debug] [2026-10-18T06:34:55.617Z] Checked if tokens are valid: true, expires at: 1792308893274
+[debug] [2026-10-18T06:34:55.621Z] Checked if tokens are valid: true, expires at: 1792308893274
+[debug] [2026-10-18T06:34:55.621Z] Checked if tokens are valid: true, expires at: 1792308893274
+[debug] [2026-10-18T06:34:55.621Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-18T06:34:55.621Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T06:34:55.621Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com [none]
+[debug] [2026-10-18T06:34:55.621Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/beekasir-60f31
+[debug] [2026-10-18T06:34:55.622Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com [none]
+[debug] [2026-10-18T06:34:55.622Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com x-goog-quota-user=projects/beekasir-60f31
+[debug] [2026-10-18T06:34:55.623Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:55.623Z] Checked if tokens are valid: true, expires at: 1792308893274
+[debug] [2026-10-18T06:34:55.623Z] Checked if tokens are valid: true, expires at: 1792308893274
+[debug] [2026-10-18T06:34:55.623Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [none]
+[debug] [2026-10-18T06:34:55.624Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com x-goog-quota-user=projects/beekasir
+[debug] [2026-10-18T06:34:55.652Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com 403
+[debug] [2026-10-18T06:34:55.652Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [omitted]
+[debug] [2026-10-18T06:34:55.652Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:55.824Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com 200
+[debug] [2026-10-18T06:34:55.824Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2026-10-18T06:34:55.824Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:55.943Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:55.944Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:55.944Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-18T06:34:55.944Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T06:34:55.944Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:55.950Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:55.952Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:55.953Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-18T06:34:55.953Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T06:34:55.953Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:57.593Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com 403
+[debug] [2026-10-18T06:34:57.593Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [omitted]
+[debug] [2026-10-18T06:34:57.622Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com 403
+[debug] [2026-10-18T06:34:57.622Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebaseio.com [omitted]
+[debug] [2026-10-18T06:34:57.623Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com 200
+[debug] [2026-10-18T06:34:57.623Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir-60f31/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2026-10-18T06:34:57.624Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:57.714Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com 403
+[debug] [2026-10-18T06:34:57.714Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [omitted]
+[debug] [2026-10-18T06:34:57.749Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:57.750Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:57.750Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-18T06:34:57.750Z] > authorizing via signed-in user (kiki.kiswanto22@gmail.com)
+[debug] [2026-10-18T06:34:57.750Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"react-native"}
+[debug] [2026-10-18T06:34:59.471Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com 403
+[debug] [2026-10-18T06:34:59.471Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/beekasir/services/firebaseio.com [omitted]

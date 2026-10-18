@@ -1,0 +1,42 @@
+{
+  "retrieved": "2026-10-18",
+  "license": "public/technologies/LICENSE.devicon",
+  "technology_logos": [
+    {
+      "file": "public/technologies/angular.svg",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg",
+      "sha256": "c7c1b10b72bca5363971feaddbd92062d12e3c7994a82b16a90d1cf66afef669",
+      "adjustment": "viewBox cropped to artwork bounds plus 2 units padding; original shapes/colors retained"
+    },
+    {
+      "file": "public/technologies/nodejs.svg",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg",
+      "sha256": "4c88d41a55c30e29411df09b17b574adda2f153dda972ea60272571e1119bfb3",
+      "adjustment": "viewBox cropped to artwork bounds plus 2 units padding; original shapes/colors retained"
+    },
+    {
+      "file": "public/technologies/php.svg",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg",
+      "sha256": "f7294b1f2d9daa0d474fc7bc7506f9bd10ad2ed0fda09846ce3c123dfbb32f03",
+      "adjustment": "viewBox cropped to artwork bounds plus 2 units padding; original shapes/colors retained"
+    },
+    {
+      "file": "public/technologies/mysql.svg",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+      "sha256": "fcaebd5a8e41c854cad0993e2bd2d87f94ebf3ab760c87b8f3f2dd8a5a1385da",
+      "adjustment": "viewBox cropped to artwork bounds plus 2 units padding; original shapes/colors retained"
+    },
+    {
+      "file": "public/technologies/docker.svg",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg",
+      "sha256": "5d3518b5e6e1efcffd0bcb12445a604ed92d4d5e130e863fcff222fc03a1f8d6",
+      "adjustment": "viewBox cropped to artwork bounds plus 2 units padding; original shapes/colors retained"
+    },
+    {
+      "file": "public/technologies/aws.svg",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
+      "sha256": "eb25c4d4540d7eb2faaccf66179810019157d20002dfec8cbf5b1ecc251da75a",
+      "adjustment": "viewBox cropped to artwork bounds plus 2 units padding; original shapes/colors retained"
+    }
+  ]
+}

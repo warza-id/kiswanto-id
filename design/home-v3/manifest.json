@@ -1,0 +1,51 @@
+{
+  "version": "V3",
+  "date": "2026-10-18",
+  "status": "visual-concept-not-implemented",
+  "assets": [
+    {
+      "path": "assets/logo-k-ascending.png",
+      "sha256": "8905a25838668f774356490ea2335b19bb85ee4e02e4c235c80826370899409c",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "path": "assets/logo-k-ascending.svg",
+      "sha256": "0f94ed2f56f715848f74a0d91b6e965a19dbf41260d1de48814a3c546327a844"
+    },
+    {
+      "path": "assets/logo-reference-board.png",
+      "sha256": "e964d15421f5ac6494b96d19018246a802657a0c2fbcd1d944bbf6b2ea1adbbb",
+      "width": 800,
+      "height": 400
+    },
+    {
+      "path": "assets/logo-reference-board.svg",
+      "sha256": "0b1a5d1f0c6cfe0c4f1064e10d9bedfe51a063ea1d73d2f45ae5200cf50ee401"
+    },
+    {
+      "path": "assets/portrait-black-tee.png",
+      "sha256": "997c6ec88c4b9e7ab60301d3f5eb914e1fa356c014a1a9ccb9c257bb5e22610a",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "home-laptop-v3.png",
+      "sha256": "b1e8ab36d34f8691fb928338cfff9ba66848d3b30157ea7ab8e1d32c94d67484",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "path": "home-mobile-v3.png",
+      "sha256": "ba694da2a7346a569958a02d6282cc6791c24259b41bbba298e54b994d1c2432",
+      "width": 725,
+      "height": 2169
+    },
+    {
+      "path": "home-tablet-v3.png",
+      "sha256": "a4101257c6945d4d0cbb120722fe65c0d72201f74428101d95b8b0cec7a3903b",
+      "width": 949,
+      "height": 1657
+    }
+  ]
+}

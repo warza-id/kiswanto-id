@@ -1,0 +1,288 @@
+{
+  "results": [
+    {
+      "name": "laptop",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "height": 1110,
+      "images": [
+        {
+          "src": "/brand/logo.svg",
+          "loaded": true
+        },
+        {
+          "src": "/_next/image?url=%2Fimages%2Fkiki-kiswanto.webp&w=3840&q=75",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/angular.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/nodejs.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/php.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/mysql.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/docker.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/aws.svg",
+          "loaded": true
+        },
+        {
+          "src": "/brand/logo.svg",
+          "loaded": true
+        }
+      ],
+      "brokenAnchors": [],
+      "lang": "id",
+      "font": "Geist, \"Geist Fallback\", Arial, Helvetica, sans-serif"
+    },
+    {
+      "name": "tablet",
+      "width": 834,
+      "scrollWidth": 834,
+      "height": 1494,
+      "images": [
+        {
+          "src": "/brand/logo.svg",
+          "loaded": true
+        },
+        {
+          "src": "/_next/image?url=%2Fimages%2Fkiki-kiswanto.webp&w=3840&q=75",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/angular.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/nodejs.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/php.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/mysql.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/docker.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/aws.svg",
+          "loaded": true
+        },
+        {
+          "src": "/brand/logo.svg",
+          "loaded": true
+        }
+      ],
+      "brokenAnchors": [],
+      "lang": "id",
+      "font": "Geist, \"Geist Fallback\", Arial, Helvetica, sans-serif"
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 1700,
+      "images": [
+        {
+          "src": "/brand/logo.svg",
+          "loaded": true
+        },
+        {
+          "src": "/_next/image?url=%2Fimages%2Fkiki-kiswanto.webp&w=3840&q=75",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/angular.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/nodejs.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/php.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/mysql.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/docker.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/aws.svg",
+          "loaded": true
+        },
+        {
+          "src": "/brand/logo.svg",
+          "loaded": true
+        }
+      ],
+      "brokenAnchors": [],
+      "lang": "id",
+      "font": "Geist, \"Geist Fallback\", Arial, Helvetica, sans-serif"
+    },
+    {
+      "name": "small-mobile",
+      "width": 320,
+      "scrollWidth": 320,
+      "height": 1843,
+      "images": [
+        {
+          "src": "/brand/logo.svg",
+          "loaded": true
+        },
+        {
+          "src": "/_next/image?url=%2Fimages%2Fkiki-kiswanto.webp&w=3840&q=75",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/angular.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/nodejs.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/php.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/mysql.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/docker.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/aws.svg",
+          "loaded": true
+        },
+        {
+          "src": "/brand/logo.svg",
+          "loaded": true
+        }
+      ],
+      "brokenAnchors": [],
+      "lang": "id",
+      "font": "Geist, \"Geist Fallback\", Arial, Helvetica, sans-serif"
+    },
+    {
+      "name": "tablet-landscape",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "height": 1520,
+      "images": [
+        {
+          "src": "/brand/logo.svg",
+          "loaded": true
+        },
+        {
+          "src": "/_next/image?url=%2Fimages%2Fkiki-kiswanto.webp&w=3840&q=75",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/angular.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/nodejs.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/php.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/mysql.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/docker.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/aws.svg",
+          "loaded": true
+        },
+        {
+          "src": "/brand/logo.svg",
+          "loaded": true
+        }
+      ],
+      "brokenAnchors": [],
+      "lang": "id",
+      "font": "Geist, \"Geist Fallback\", Arial, Helvetica, sans-serif"
+    },
+    {
+      "name": "wide",
+      "width": 1920,
+      "scrollWidth": 1920,
+      "height": 1110,
+      "images": [
+        {
+          "src": "/brand/logo.svg",
+          "loaded": true
+        },
+        {
+          "src": "/_next/image?url=%2Fimages%2Fkiki-kiswanto.webp&w=3840&q=75",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/angular.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/nodejs.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/php.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/mysql.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/docker.svg",
+          "loaded": true
+        },
+        {
+          "src": "/technologies/aws.svg",
+          "loaded": true
+        },
+        {
+          "src": "/brand/logo.svg",
+          "loaded": true
+        }
+      ],
+      "brokenAnchors": [],
+      "lang": "id",
+      "font": "Geist, \"Geist Fallback\", Arial, Helvetica, sans-serif"
+    }
+  ],
+  "interactions": "Menu open/close, Escape focus, navigation close, skip link, contact email, reduced motion, favicon routes: passed",
+  "runtimeErrors": []
+}
